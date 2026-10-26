@@ -1,35 +1,35 @@
 
 const teamMembers = [
   {
-    number: "01", name: "Abdul Hady", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
+    number: "01", name: "Abdul Hady (NIM: 19230136)", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
     shortBio: "Mahasiswa Sistem Informasi yang tertarik pada pengembangan sistem, pengolahan data, dan perancangan solusi digital.",
     photo: "assets/hadyy.jpg", education: "Universitas Bina Sarana Informatika | Tahun Masuk 2023",
     skills: ["Programming", "Analisis", "Perancangan Sistem"],
     email: "19230136@bsi.ac.id"
   },
   {
-    number: "02", name: "Bebi Kurniawan Hura", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
+    number: "02", name: "Bebi Kurniawan Hura (NIM: 19231395)", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
     shortBio: "Mahasiswa Sistem Informasi yang dapat menampilkan minat, keterampilan teknis, dan kontribusi proyek sesuai pengalaman nyata.",
     photo: "assets/bebi.jpg", education: "Universitas Bina Sarana Informatika | Tahun Masuk 2023.",
     skills: ["Programming", "Problem Solving", "Riset"],
     email: "19231395@bsi.ac.id"
   },
   {
-    number: "03", name: "Lestin Nurhadia Wati Hulu", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
+    number: "03", name: "Lestin Nurhadia Wati Hulu (NIM: 19231252)", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
     shortBio: "Mahasiswa Sistem Informasi dengan ruang untuk menampilkan minat pada analisis, dokumentasi, riset, atau bidang lain yang relevan.",
     photo: "assets/lestin.jpg", education: "Universitas Bina Sarana Informatika | Tahun Masuk 2023.",
     skills: ["Analisis Data", "Dokumentasi", "Riset"],
     email: "19231252@bsi.ac.id"
   },
   {
-    number: "04", name: "Moh Azzam Abulkhoir", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
+    number: "04", name: "Moh Azzam Abulkhoir (NIM: 19231445)", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
     shortBio: "Mahasiswa Sistem Informasi yang dapat menampilkan ketertarikan pada desain, pengalaman pengguna, atau pengembangan produk.",
     photo: "assets/azam.jpg", education: "Universitas Bina Sarana Informatika | Tahun Masuk 2023i.",
     skills: ["Komunikasi", "Presentasi", "Kreativitas"],
     email: "19231445@bsi.ac.id"
   },
   {
-    number: "05", name: "Riski Abimur Adiansyah", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
+    number: "05", name: "Riski Abimur Adiansyah (NIM: 19230319)", role: "Anggota Tim", study: "Program Studi: Sistem Informasi",
     shortBio: "Mahasiswa Sistem Informasi yang dapat menampilkan minat pada komunikasi, presentasi, koordinasi, atau bidang lainnya.",
     photo: "assets/riskii.jpg", education: "Universitas Bina Sarana Informatika | Tahun Masuk 2023.",
     skills: ["UI/UX", "Prototyping", "Kreativitas"],
